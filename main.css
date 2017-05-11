@@ -279,7 +279,7 @@ section:nth-of-type(3) .seconds-container {
 
 /* -------------Tokio-time--------------- */
 .container section:nth-of-type(4) {
-    background: url(img/tokio.jpg) no-repeat center;    
+    background: url(tokio.jpg) no-repeat center;    
     background-size: cover;
 }
 section:nth-of-type(4) h1 {
